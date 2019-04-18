@@ -1,0 +1,31 @@
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\App.g.cs
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\bin\Debug\Lab7.exe.config
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\bin\Debug\Lab7.exe
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\bin\Debug\Lab7.pdb
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\MainWindow.baml
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.g.resources
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.exe
+e:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.pdb
+E:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Учеба\2 курс\ООП\OOP2\Lab7\Lab7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\App.g.cs
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\MainWindow.baml
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.g.resources
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\Учеба\C#\OOP2_перв\Lab7\Lab7\obj\Debug\Lab7.pdb
